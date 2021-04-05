@@ -1,0 +1,22 @@
+body {
+    background-color: aliceblue;
+    /* text-align: center; */
+}
+
+.styleButton {
+    margin: 10px;
+}
+
+.styleHeader {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image-format-five {
+    width: 30px;
+    height: 30px;
+}
+
+.image-format-one {
+    width: 10px;
+    height: 30px;
+}
